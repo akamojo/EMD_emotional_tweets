@@ -1,2 +1,2 @@
-# EMD_emotional_tweets
+# EMD emotional tweets
 Massive data exploration course project
